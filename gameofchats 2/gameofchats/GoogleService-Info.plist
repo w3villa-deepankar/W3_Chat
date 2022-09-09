@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>441437321130-e443g8v3eckcov1ilop0cbef60m1kpi6.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.441437321130-e443g8v3eckcov1ilop0cbef60m1kpi6</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCnDDii0WAQPNr31a_ikcLvRTwoSW1f2gQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>441437321130</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.politics.progress.quickchat</string>
+	<key>PROJECT_ID</key>
+	<string>chatapp-69ea8</string>
+	<key>STORAGE_BUCKET</key>
+	<string>chatapp-69ea8.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:441437321130:ios:e3a35e538fdabdea175dd3</string>
+	<key>DATABASE_URL</key>
+	<string>https://chatapp-69ea8-default-rtdb.firebaseio.com/</string>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>FirebaseAppDelegateProxyEnabled</key>
+	<false/>
+</dict>
+</plist>
